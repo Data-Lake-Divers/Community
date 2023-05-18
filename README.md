@@ -1,2 +1,2 @@
 # Community
-Data Lake Divers Comunity
+Discusions of Data Lake Divers
